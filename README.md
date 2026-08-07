@@ -36,9 +36,9 @@
       <code>agents</code> <code>analysis</code> <code>AI</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/felipe-cosse/global_flight_tracker">Global Flight Tracker</a></h3>
-      <p>Exploring global flight data through a focused tracking project.</p>
-      <code>data</code> <code>tracking</code> <code>visualization</code>
+      <h3><a href="https://github.com/felipe-cosse/Local-streaming-data-platform">Local Streaming Data Platform</a></h3>
+      <p>A fully local reference platform for event streaming, CDC, real-time analytics, lakehouse storage, observability, and retrieval-augmented AI.</p>
+      <code>Kafka</code> <code>Flink</code> <code>lakehouse</code>
     </td>
   </tr>
   <tr>
