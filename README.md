@@ -53,6 +53,18 @@
       <code>GenAI</code> <code>LLMs</code> <code>coursework</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/felipe-cosse/Bitcoinpricerange">Bitcoin Price Range</a></h3>
+      <p>Bitcoin and Ethereum price tracking with market probabilities and machine-learning price-range predictions.</p>
+      <code>Bitcoin</code> <code>ML</code> <code>FastAPI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/felipe-cosse/Marketing-Agents">Marketing Agents</a></h3>
+      <p>A local workspace for marketing workflows with mock execution and approval controls.</p>
+      <code>React</code> <code>FastAPI</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
 </table>
 
 ## Toolkit
