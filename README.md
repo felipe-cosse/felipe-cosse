@@ -49,7 +49,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/felipe-cosse/generative-ai-course">Generative AI</a></h3>
-      <p>Practical work across contemporary generative-AI concepts and workflows.</p>
+      <p>An interactive, no-code Generative AI course for managers, product leaders, and business teams to evaluate opportunities and lead practical pilots.</p>
       <code>GenAI</code> <code>LLMs</code> <code>coursework</code>
     </td>
   </tr>
