@@ -48,7 +48,7 @@
       <code>agents</code> <code>notebooks</code> <code>learning</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/felipe-cosse/udacity-generative-ai">Generative AI</a></h3>
+      <h3><a href="https://github.com/felipe-cosse/generative-ai-course">Generative AI</a></h3>
       <p>Practical work across contemporary generative-AI concepts and workflows.</p>
       <code>GenAI</code> <code>LLMs</code> <code>coursework</code>
     </td>
